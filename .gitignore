@@ -1,0 +1,5 @@
+# Ignore Local Settings
+.envrc
+
+# Ignore Intellij Settings
+.idea
