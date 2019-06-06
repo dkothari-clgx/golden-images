@@ -3,3 +3,5 @@
 
 # Ignore Intellij Settings
 .idea
+
+__pycache__

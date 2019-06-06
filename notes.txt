@@ -1,0 +1,4 @@
+Understand a systemd image 
+https://hub.docker.com/r/centos/systemd/dockerfile
+vs. 
+https://hub.docker.com/r/ioben/centos-systemd/dockerfile
